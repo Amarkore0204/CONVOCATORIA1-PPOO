@@ -1,5 +1,5 @@
 # CONVOCATORIA1-PPOO
-Luis Felipe Fajardo Rivera
+-        Luis Felipe Fajardo Rivera
 -        Allahin Llanos Jimenez
 -        Juan David Londoño Amaya
 -        Angela Marcela Martinez Ruiz
