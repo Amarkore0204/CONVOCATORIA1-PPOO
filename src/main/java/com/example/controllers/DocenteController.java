@@ -42,7 +42,7 @@ public class DocenteController {
 	@DeleteMapping("/{id}")
 	public  ResponseEntity<Void> delete(@PathVariable Long id){
 		docenteServices.deleteById(id);
-		return ResponseEntity.noContent().build();
+		return ResponseEntity.ok("Se eliminó el docente con ID: " + id);
 	}
 
 }
